@@ -1,7 +1,7 @@
 {
-  "name": "hadoos/webshopapps_matrixrate",
+  "name": "hgati/webshopapps_matrixrate",
   "type": "magento-module",
-  "description": "Shipping Module",
+  "description": "Webshopapps's Magento 1.x Shipping Module",
 
   "require": {
     "magento-hackathon/magento-composer-installer": "*"
