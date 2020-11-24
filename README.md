@@ -1,3 +1,3 @@
 # webshopapps_matrixrate
 
-- Magento 1.x shipping module
+- Magento 1.x Webshopapps shipping module
